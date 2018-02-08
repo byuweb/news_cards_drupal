@@ -1,0 +1,1 @@
+{"version":3,"file":"paragraphs--stories.css","sources":["paragraphs--stories.scss"],"sourcesContent":["$lightGray: #F2F2F2;\n\ndiv.paragraph--stories-container {\n  border: $lightGray solid 1px;\n  border-radius: 4px;\n}\n"],"names":[],"mappings":"AAEA,AAAA,GAAG,AAAA,6BAA6B,CAAC;EAC/B,MAAM,EAHI,OAAO,CAGE,KAAK,CAAC,GAAG;EAC5B,aAAa,EAAE,GAAG,GACnB"}
