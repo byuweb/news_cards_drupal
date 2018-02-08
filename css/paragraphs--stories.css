@@ -1,8 +1,9 @@
 div.paragraph--stories-container {
-  border: #F2F2F2 solid 1px;
+  border: #f2f2f2 solid 1px;
   border-radius: 4px;
   display: block;
   overflow: auto;
-  padding: 8px; }
+  padding: 8px;
+}
 
 /*# sourceMappingURL=paragraphs--stories.css.map */

@@ -4,4 +4,4 @@ description: 'Paragraph styles to display external news articles in a card forma
 core: 8.x
 package: 'Paragraphs'
 dependencies:
-  - paragraphs
+    - drupal:paragraphs

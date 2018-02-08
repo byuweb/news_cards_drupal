@@ -26,11 +26,10 @@ function news_cards_help($route_name, RouteMatchInterface $route_match) {
 /**
  * Implements hook_theme().
  */
-function news_cards_theme($existing, $type, $theme, $path)
-{
-  $theme = array();
-  $theme['paragraph__stories'] = array(
+function news_cards_theme($existing, $type, $theme, $path) {
+  $theme = [];
+  $theme['paragraph__stories'] = [
     'template' => 'paragraph--stories',
-  );
+  ];
   return $theme;
 }
