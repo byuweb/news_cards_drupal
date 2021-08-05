@@ -53,8 +53,5 @@ uninstall it and delete those content types/paragraph types.
 MAINTAINERS
 -----------
 
-Current Maintainers:
- * Blake T. Morgan (blakemorgan) - https://drupal.org/u/blakemorgan
-
 This project has been sponsored by:
  * Brigham Young University
